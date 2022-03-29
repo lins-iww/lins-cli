@@ -1,6 +1,6 @@
 {
   "name": "@lepeng.lin/utils",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "lins-dev-utils",
   "author": "linlepeng <lepeng.lin@zhaopin.com.cn>",
   "homepage": "",
@@ -23,5 +23,5 @@
   "dependencies": {
     "lins-test": "^1.0.2"
   },
-  "gitHead": "f0e8fd134c9136778cac9a69c69f9926bc7d6e00"
+  "gitHead": "fbf54935da6f43d7483ac71e298b41ca7779344f"
 }
